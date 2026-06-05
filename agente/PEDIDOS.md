@@ -10,8 +10,12 @@
 
 ## Pendientes
 
-- [ ] (ejemplo) Agrega una sección de "Servicios" con 6 servicios principales.
-- [ ] (ejemplo) Haz que el sitio se vea bien en celular.
+- [ ] Lee el archivo index.html completo y dime:
+  1. Qué secciones tiene la página
+  2. Qué está bien hecho
+  3. Qué le falta o se puede mejorar
+  4. Qué animaciones se pueden agregar sin romper el diseño actual
+  Guarda tu análisis en BITACORA.md
 
 ## Hechos (Sandro los mueve aquí al terminar)
 
