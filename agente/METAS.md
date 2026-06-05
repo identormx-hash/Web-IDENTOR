@@ -9,9 +9,9 @@
 - Que se vea **premium, seria y confiable** para que los clientes quieran cotizar.
 
 ## Objetivos actuales (en orden de prioridad)
-1. (escribe aquí tu objetivo #1, ej. "que el sitio cargue rápido y se vea pro en celular")
-2.
-3.
+1. Que el sitio se vea y funcione perfecto en celular (responsive)
+2. Agregar animaciones 3D de productos de tecnología dentro de la página
+3. Que el sitio cargue rápido aunque tenga animaciones pesadas
 
 ## Identidad de marca (NO se cambia nunca)
 - Estilo dark premium: fondo oscuro, tono serio y profesional.
